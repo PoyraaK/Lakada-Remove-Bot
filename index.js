@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["Lakada Kanalına Abone Olun :)","https://www.youtube.com/@lakada1379"];
 
 
 let currentIndex = 0;
